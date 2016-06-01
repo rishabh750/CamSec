@@ -25,12 +25,20 @@ INSTRUCTIONS TO EXECUTE
 
 Follow the following instructions:-
 
+
 Clone the project onto your system
+
 Open LOGIN.M in MATLAB
+
 Now you have two options
-  Directly execute the matlab file
-  Create a standalone
+
+    
+    Directly execute the matlab file
+    
+    Create a standalone
+
 
 CONCLUSION
+
 
 Do let us know about the performance and accuracy of the algorithm. If you can come up with a faster algorithm please share. The project is opensource and we encourage sharing of different test results.
